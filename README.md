@@ -1,6 +1,7 @@
 l## JPush PhoneGap Plugin ##
 
-
+###常见错误
+ios9 禁用bitcode
 ###准备工作
 
 1. cordova create 文件夹名字 包名 应用名字
@@ -67,6 +68,7 @@ l## JPush PhoneGap Plugin ##
 该项目基于cordova实现，目前无法使用'phonegap build'云服务进行打包，建议使用本地环境进行打包
 
 ###常见错误
+
 1. androd
 
 		eclipse中phonegap工程import之后出现:`Type CallbackContext cannot be resolved to a type`
